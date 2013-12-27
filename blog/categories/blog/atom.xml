@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Blog | Git Technodad]]></title>
+  <link href="http://Technodad.github.io/blog/categories/blog/atom.xml" rel="self"/>
+  <link href="http://Technodad.github.io/"/>
+  <updated>2013-12-27T17:33:50-05:00</updated>
+  <id>http://Technodad.github.io/</id>
+  <author>
+    <name><![CDATA[David Lounsbury]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[All Journeys Begin With the First Step]]></title>
+    <link href="http://Technodad.github.io/blog/2013/12/27/all-jouneys-begin-with-the-first-step/"/>
+    <updated>2013-12-27T11:22:06-05:00</updated>
+    <id>http://Technodad.github.io/blog/2013/12/27/all-jouneys-begin-with-the-first-step</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
