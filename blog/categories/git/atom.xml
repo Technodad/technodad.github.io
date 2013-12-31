@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Git, | Git Technodad]]></title>
   <link href="http://Technodad.github.io/blog/categories/git/atom.xml" rel="self"/>
   <link href="http://Technodad.github.io/"/>
-  <updated>2013-12-31T16:32:35-05:00</updated>
+  <updated>2013-12-31T16:42:00-05:00</updated>
   <id>http://Technodad.github.io/</id>
   <author>
     <name><![CDATA[David Lounsbury]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A Breakthrough?]]></title>
+    <link href="http://Technodad.github.io/blog/2013/12/31/a-breakthrough/"/>
+    <updated>2013-12-31T16:38:31-05:00</updated>
+    <id>http://Technodad.github.io/blog/2013/12/31/a-breakthrough</id>
+    <content type="html"><![CDATA[<p>On a whim, I did a <code>rake preview</code>. It worked, though I wasn&rsquo;t able to preview the post in my browser, the subsequent <code>rake deploy</code> did exactly what was expected: it builtt the new public folder, copied it to _deploy, and pushed that out to the repository.</p>
+
+<p>It appears <code>rake preview</code> is a necessary part of the deployment process. we shall see with this post.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Another Step Forward]]></title>
