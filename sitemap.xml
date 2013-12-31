@@ -2,34 +2,42 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>
-            http://technodad.github.io/blog/2013/12/27/all-journeys-begin-with-the-first-step/
+            http://Technodad.github.io/blog/2013/12/27/all-journeys-begin-with-the-first-step/
         </loc>
         <lastmod>2013-12-27T11:21:21-05:00</lastmod>
     </url>
     <url>
         <loc>
-            http://technodad.github.io/blog/2013/12/27/all-jouneys-begin-with-the-first-step/
+            http://Technodad.github.io/blog/2013/12/27/all-jouneys-begin-with-the-first-step/
         </loc>
         <lastmod>2013-12-27T11:23:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://technodad.github.io/blog/2013/12/27/success/</loc>
+        <loc>http://Technodad.github.io/blog/2013/12/27/success/</loc>
         <lastmod>2013-12-28T13:06:41-05:00</lastmod>
     </url>
     <url>
-        <loc>http://technodad.github.io/blog/2013/12/30/still-a-puzzle/</loc>
+        <loc>http://Technodad.github.io/blog/2013/12/30/still-a-puzzle/</loc>
         <lastmod>2013-12-30T17:56:03-05:00</lastmod>
     </url>
     <url>
-        <loc>http://technodad.github.io/blog/archives/</loc>
-        <lastmod>2013-12-30T17:56:03-05:00</lastmod>
+        <loc>http://Technodad.github.io/blog/2013/12/31/a-step-forward/</loc>
+        <lastmod>2013-12-31T16:25:29-05:00</lastmod>
     </url>
     <url>
-        <loc>http://technodad.github.io/</loc>
-        <lastmod>2013-12-30T17:56:03-05:00</lastmod>
+        <loc>http://Technodad.github.io/blog/2013/12/31/another-step-forward/</loc>
+        <lastmod>2013-12-31T16:18:07-05:00</lastmod>
     </url>
     <url>
-        <loc>http://technodad.github.io/robots.txt</loc>
+        <loc>http://Technodad.github.io/blog/archives/</loc>
+        <lastmod>2013-12-31T16:25:29-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://Technodad.github.io/</loc>
+        <lastmod>2013-12-31T16:25:29-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://Technodad.github.io/robots.txt</loc>
         <lastmod>2013-12-27T11:04:23-05:00</lastmod>
     </url>
 </urlset>
