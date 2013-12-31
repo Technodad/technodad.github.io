@@ -4,7 +4,11 @@
   <title><![CDATA[Git Technodad]]></title>
   <link href="http://technodad.github.io/atom.xml" rel="self"/>
   <link href="http://technodad.github.io/"/>
+<<<<<<< HEAD
   <updated>2013-12-30T17:56:53-05:00</updated>
+=======
+  <updated>2013-12-27T17:48:51-05:00</updated>
+>>>>>>> 279fbf4a1a5025bbf6b9799f35c078097b638e41
   <id>http://technodad.github.io/</id>
   <author>
     <name><![CDATA[David Lounsbury]]></name>
@@ -14,6 +18,7 @@
 
   
   <entry>
+<<<<<<< HEAD
     <title type="html"><![CDATA[Still a Puzzle]]></title>
     <link href="http://technodad.github.io/blog/2013/12/30/still-a-puzzle/"/>
     <updated>2013-12-30T17:35:27-05:00</updated>
@@ -38,6 +43,8 @@
   </entry>
   
   <entry>
+=======
+>>>>>>> 279fbf4a1a5025bbf6b9799f35c078097b638e41
     <title type="html"><![CDATA[All Journeys Begin With the First Step]]></title>
     <link href="http://technodad.github.io/blog/2013/12/27/all-jouneys-begin-with-the-first-step/"/>
     <updated>2013-12-27T11:22:06-05:00</updated>
