@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Git, | Git Technodad]]></title>
+  <link href="http://technodad.github.io/blog/categories/git/atom.xml" rel="self"/>
+  <link href="http://technodad.github.io/"/>
+  <updated>2013-12-30T17:56:53-05:00</updated>
+  <id>http://technodad.github.io/</id>
+  <author>
+    <name><![CDATA[David Lounsbury]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Still a Puzzle]]></title>
+    <link href="http://technodad.github.io/blog/2013/12/30/still-a-puzzle/"/>
+    <updated>2013-12-30T17:35:27-05:00</updated>
+    <id>http://technodad.github.io/blog/2013/12/30/still-a-puzzle</id>
+    <content type="html"><![CDATA[<p>I&rsquo;m still struggling with how to get Octopress working. I can get it to generate blog posts, and the public folder is updated, but nothing I do seems to push public up to my Pages repository at technodad.github.io.</p>
+
+<p>I&rsquo;ve been a bit afraid of messing with remote updates too much, as I don&rsquo;t want to accidentally push anything back to the octopress master. The github app says the origin is <a href="https://github.com/Technodad/technodad.github.io,">https://github.com/Technodad/technodad.github.io,</a> which seems correct. I <em>assume</em> the master is my local repository. Looking at the SHAs in the .git master and source files isn&rsquo;t helping much &ndash; the source SHA matches my local copy.</p>
+]]></content>
+  </entry>
+  
+</feed>

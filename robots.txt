@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://technodad.github.io/sitemap.xml 
