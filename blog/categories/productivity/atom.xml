@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Productivity | Git Technodad]]></title>
+  <link href="http://Technodad.github.io/blog/categories/productivity/atom.xml" rel="self"/>
+  <link href="http://Technodad.github.io/"/>
+  <updated>2014-01-12T17:06:41-05:00</updated>
+  <id>http://Technodad.github.io/</id>
+  <author>
+    <name><![CDATA[David Lounsbury]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Where We're Going]]></title>
+    <link href="http://Technodad.github.io/blog/2014/01/12/16-Directions/"/>
+    <updated>2014-01-12T16:31:30-05:00</updated>
+    <id>http://Technodad.github.io/blog/2014/01/12/16-Directions</id>
+    <content type="html"><![CDATA[<p>The original purpose of this blog was as a way of educating myself about Git.  This is still a work in progress, so that purpose won&rsquo;t go away. But, I need to <em>do</em> something with the blog in order to have things to process.</p>
+
+<p>I already have my <a href="blog.technodad.org">Technodad Tumblr blog</a> for my main blog, so I&rsquo;ve decided to focus this blog on my exploration of productivity tools. The seems somehow more appropriate for the more technical Git audience. Of course, there may be the occasional cross-post if I find something really good. I may also try and figure out how to put the RSS feed form the Tumblr in the sidebar, but I think I&rsquo;ll need to boost my <a href="http://octopress.org">Octopress</a> skills first.</p>
+]]></content>
+  </entry>
+  
+</feed>

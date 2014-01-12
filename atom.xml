@@ -4,7 +4,7 @@
   <title><![CDATA[Git Technodad]]></title>
   <link href="http://Technodad.github.io/atom.xml" rel="self"/>
   <link href="http://Technodad.github.io/"/>
-  <updated>2013-12-31T16:42:00-05:00</updated>
+  <updated>2014-01-12T17:06:41-05:00</updated>
   <id>http://Technodad.github.io/</id>
   <author>
     <name><![CDATA[David Lounsbury]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Where We're Going]]></title>
+    <link href="http://Technodad.github.io/blog/2014/01/12/16-Directions/"/>
+    <updated>2014-01-12T16:31:30-05:00</updated>
+    <id>http://Technodad.github.io/blog/2014/01/12/16-Directions</id>
+    <content type="html"><![CDATA[<p>The original purpose of this blog was as a way of educating myself about Git.  This is still a work in progress, so that purpose won&rsquo;t go away. But, I need to <em>do</em> something with the blog in order to have things to process.</p>
+
+<p>I already have my <a href="blog.technodad.org">Technodad Tumblr blog</a> for my main blog, so I&rsquo;ve decided to focus this blog on my exploration of productivity tools. The seems somehow more appropriate for the more technical Git audience. Of course, there may be the occasional cross-post if I find something really good. I may also try and figure out how to put the RSS feed form the Tumblr in the sidebar, but I think I&rsquo;ll need to boost my <a href="http://octopress.org">Octopress</a> skills first.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[A Breakthrough?]]></title>
@@ -191,6 +202,19 @@
     <content type="html"><![CDATA[<p>I&rsquo;m still struggling with how to get Octopress working. I can get it to generate blog posts, and the public folder is updated, but nothing I do seems to push public up to my Pages repository at technodad.github.io.</p>
 
 <p>I&rsquo;ve been a bit afraid of messing with remote updates too much, as I don&rsquo;t want to accidentally push anything back to the octopress master. The github app says the origin is <a href="https://github.com/Technodad/technodad.github.io,">https://github.com/Technodad/technodad.github.io,</a> which seems correct. I <em>assume</em> the master is my local repository. Looking at the SHAs in the .git master and source files isn&rsquo;t helping much &ndash; the source SHA matches my local copy.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Success]]></title>
+    <link href="http://Technodad.github.io/blog/2013/12/27/success+%28David+Lounsbury%27s+conflicted+copy%29/"/>
+    <updated>2013-12-27T21:08:48-05:00</updated>
+    <id>http://Technodad.github.io/blog/2013/12/27/success (David Lounsbury&#8217;s conflicted copy)</id>
+    <content type="html"><![CDATA[<h1>Octopress success</h1>
+
+<p>I&rsquo;m pleased I was able to sort out the Git problem preventing me from bringing up Octopress. The problem was that I&rsquo;d used the default process for creating a Git Pages site, which creates a repository and adds a license and README file. The addition of the files meant that that repository was out of sync with the <em>deploy folder in Octopress. Going to the </em>deploy folder and doing a git pull brought down the two files, and with everything in sync! the deploy worked.</p>
+
+<p>My next step in learning Git is to grok how to effectively use a cloned repository. I am now using both slogger and Octopress and have local repositories for both. I figure as long as I don&rsquo;t do a push I won&rsquo;t mess up the masters. The question is how have my own remote repository for these &ndash; more learning is needed.</p>
 ]]></content>
   </entry>
   
